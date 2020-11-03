@@ -1,0 +1,1 @@
+print("Hello Covid World, i am going to blow this bloody virus out")
